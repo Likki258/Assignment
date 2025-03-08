@@ -74,9 +74,13 @@ Run the analysis script:
 python log_analysis.py
 
 **Dependencies**
+
 PySpark
+
 Matplotlib
+
 Pandas
+
 Make sure to install the required dependencies before running the analysis script.
 
 **Contact**
